@@ -22,8 +22,11 @@ Welcome to the TetherUSD, This project aims to revolutionize the stablecoin by i
 **TetherUSD is available on the following blockchain networks:**
 
 **Ethereum (ERC20):** For users who want to leverage Ethereum's vast ecosystem.
+
 **Binance Smart Chain (BEP20):** Offering faster transactions and lower fees.
+
 **Tron (TRC20): **Enabling high throughput and low-cost transactions.
+
 **Fantom (FTM):** Built for speed, scalability, and low transaction costs, ideal for DeFi and other decentralized applications.
 
 # How It Works
