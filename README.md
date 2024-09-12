@@ -25,7 +25,7 @@ Welcome to the TetherUSD, This project aims to revolutionize the stablecoin by i
 
 **Binance Smart Chain (BEP20):** Offering faster transactions and lower fees.
 
-**Tron (TRC20): **Enabling high throughput and low-cost transactions.
+**Tron (TRC20):** Enabling high throughput and low-cost transactions.
 
 **Fantom (FTM):** Built for speed, scalability, and low transaction costs, ideal for DeFi and other decentralized applications.
 
