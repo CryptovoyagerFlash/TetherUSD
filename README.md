@@ -30,6 +30,7 @@ Welcome to the TetherUSD, This project aims to revolutionize the stablecoin by i
 TetherUSD is designed to maintain a stable value of 1 USD per token. This is achieved by backing each TUSD with actual US Dollars or equivalent assets in reserve. The smart contract includes functionalities to:
 
 **Mint Tokens:** Authorized entities can mint new TUSD when additional collateral is provided.
+
 **Burn Tokens:** Tokens can be burned when they are redeemed for USD or equivalent collateral.
 
 # Contributing
@@ -42,8 +43,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any inquiries or support, please reach out to the maintainers at:
 
 Email: support@tetherusd.com
+
 Website: www.tetherusd.pro
+
 Telegram: https://t.me/usdtfofficial
+
 Twitter: https://x.com/TetherUSDftm
 
 
